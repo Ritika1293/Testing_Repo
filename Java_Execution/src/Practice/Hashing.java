@@ -24,6 +24,7 @@ public class Hashing {
 		     set.remove(1);
 		     if (!set.contains(1)){
 		         System.out.println("I deleted 1");
+			     System.out.println("I deleted 2");
 		     }
 		     System.out.println ("size of element is : "+ set.size());
 		
